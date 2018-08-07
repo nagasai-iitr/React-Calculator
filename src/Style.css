@@ -1,0 +1,36 @@
+button{
+    color: orange;
+    background-color: black;
+    height: 60px;
+    width: 60px;
+}
+.input{
+    height: 30px; 
+    font-size: 20px;
+    background-color: black;
+    color: darkgoldenrod;
+}
+
+.info{
+    font-size: 20px;
+    
+    background-color: aqua;
+    text-align: center
+}
+.main{
+    text-align: center;
+}
+#ac{
+    text-align: center;
+    font-size: 20px;
+   background-color:red;
+    
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
+#buttons_set{
+    text-align: center;
+}
+  
+
