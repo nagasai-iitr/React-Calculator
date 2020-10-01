@@ -1,13 +1,13 @@
 button{
-    color: orange;
-    background-color: black;
-    height: 60px;
-    width: 60px;
+    color: blue;
+    background-color: red;
+    height: 65px;
+    width: 65px;
 }
 .input{
-    height: 30px; 
-    font-size: 20px;
-    background-color: black;
+    height: 35px; 
+    font-size: 22px;
+    background-color: red;
     color: darkgoldenrod;
 }
 
@@ -15,22 +15,22 @@ button{
     font-size: 20px;
     
     background-color: aqua;
-    text-align: center
+    text-align: left
 }
 .main{
-    text-align: center;
+    text-align: right;
 }
 #ac{
-    text-align: center;
+    text-align: left;
     font-size: 20px;
-   background-color:red;
+   background-color:black;
     
 }
 body{
     background-color: lightgoldenrodyellow;
 }
 #buttons_set{
-    text-align: center;
+    text-align: left;
 }
   
 
